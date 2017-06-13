@@ -1,4 +1,4 @@
 # zaos
 Operating System
-![Alt text](/zaos/screenshots/os1.png "Running")
+![alt text](screenshots/os1.png?raw=true "Running")
 
