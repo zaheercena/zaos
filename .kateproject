@@ -1,0 +1,4 @@
+{
+    "name": "zaos"
+    "files": [{"directore": "include", "src", "zaos", "filters": ["*.cpp", "*.h", "*.s", "*.ld"], "recursive": 1}]
+}
