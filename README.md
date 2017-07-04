@@ -13,5 +13,5 @@ Then here I am getting some text and writing that to Hard Disk and then retrieve
 Here is the last work related to System calls and you can see better in Code for syscalls.
 ![alt text](screenshots/os1.png?raw=true "System Calls")
 Now Here I do som Dynamic Memory Allocations and Managed to code malloc() fuctionality in my kernel.
-See Screensho Below...
+See Screensho Below.
 ![alt text](screenshots/os6.png?raw=true "Dynamic Mem Management(Heap/malloc)")
