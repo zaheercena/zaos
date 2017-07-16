@@ -4,7 +4,7 @@ This OS capable of
 *Mouse on the Screen (Tested)
 *Keyboard on the Screen (Tested) for input
 *Hard_Disk for In/Out both(Tested).
-This Operating System Is Developed by Zaheer Ahmed Gujjar(me) as a Research and This is multi functional but I uploaded screenshots here for Interrupts, Keyboard, Mouse, Hard Disk, Kernel.
+This Operating System Is Developed by Zaheer Ahmed Gujjar(me) as a Research and This is multi functional but I uploaded screenshots here for Interrupts, Keyboard, Mouse, Hard Disk, Multi-Tasking and some more functions.
 First Screenshot is when I first time get interrupted CPU through System Clock pulse.
 and Here is the image with on last Interrupt...
 ![alt text](screenshots/os3.png?raw=true "Getting Interrupted")
